@@ -44,6 +44,8 @@ sales-insights-analysis/
 - A small group of customers contribute a large share of revenue.
 - Average Order Value (AOV) is approximately 4,492.34.
 
+---
+
 ## 📈 Dashboard Overview
 
 The Excel dashboard includes:
@@ -55,7 +57,9 @@ The Excel dashboard includes:
 
 It uses a clean dark-blue theme with spaced layout for readability.
 
-## 📸 Dashboard Preview
+---
+
+# 📸 Dashboard Preview
 
 ## 🚀 How to Run This Project
 
@@ -64,6 +68,8 @@ It uses a clean dark-blue theme with spaced layout for readability.
 3. Open sales_dashboard.xlsx to explore the dashboard.
 4. For Python analysis, run the notebook in the notebooks folder.
 5. Ensure sales_data.csv is present inside the data folder.
+
+---
 
 ## 🙋‍♂️ Author
 
