@@ -71,6 +71,6 @@ It uses a clean dark-blue theme with spaced layout for readability.
 
 ## 🙋‍♂️ Author
 
-Ayush Saini
-Aspiring Data Analyst
-📧 Email: ayushsaini8535@gmail.com
+Ayush Saini  
+Aspiring Data Analyst  
+📧 Email: ayushsaini8535@gmail.com  
