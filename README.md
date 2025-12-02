@@ -55,11 +55,9 @@ The Excel dashboard includes:
 
 It uses a clean dark-blue theme with spaced layout for readability.
 
----
 
-📸 Dashboard Preview
+# 📸 Dashboard Preview
 
----
 
 ## 🚀 How to Run This Project
 
